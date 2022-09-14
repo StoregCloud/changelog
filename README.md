@@ -1,4 +1,4 @@
-# Moralis Changelog
+# StoregCloud Changelog
 StoregCloud Changelog - Subscribe to this repo to not miss important updates and breaking changes 🔔 
 
 Click the `Notification` button to be sure you get notified as soon as new changelogs are pushed to this repo
